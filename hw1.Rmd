@@ -1,0 +1,23 @@
+---
+title: 'Homework #1'
+author: "Bernard Fay; bj99fay"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+One job that is related to data science is a baseball **General Manager** (https://en.wikipedia.org/wiki/General_manager_(baseball)). This job is related to data science because of the *analytical path* baseball has taken over the last two decades. Players are now evaluated by their statistics, which are the results of several hours of data science research on how to optimally measure a player’s skill and potential. The job is now much more data science related now than it was even a decade ago. The data science aspect is so extreme that it may even outweigh the business side of the job.
+
+![](https://upload.wikimedia.org/wikipedia/en/a/a6/Major_League_Baseball_logo.svg "Logo Title Text 1")
+
+
+
+```{r}
+version
+```
+
+
+
+GitHub username: bj99fay
